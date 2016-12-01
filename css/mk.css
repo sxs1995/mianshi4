@@ -40,7 +40,7 @@ a {
   #click_back #sign {
     position: fixed;
     background: #fff;
-    z-index: 100000;
+    z-index: 100;
     width: 320px;
     height: 335px;
     padding: 0 20px 30px;

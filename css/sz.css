@@ -122,7 +122,6 @@ body {
 section .banner {
   width: 1200px;
   height: 500px;
-  background: red;
   margin: 36px auto  0;
   box-shadow: 0 16px 36px rgba(0, 0, 0, 0.4);
 }
